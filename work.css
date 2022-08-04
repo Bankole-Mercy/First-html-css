@@ -1,0 +1,181 @@
+
+.container{
+    /* border: 2px solid red; */
+    /* height: 100vh; */
+    padding: 40px;
+
+}
+
+.header{
+    color: brown;
+    border: 1px solid white;
+    
+    border-radius: 5px;
+
+}
+
+.line{
+    width: 100%;
+    height: 10px;
+    background-color: darkmagenta;
+}
+
+.bio{
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)), url(images/unsplash.jpg);
+   background-position: center;
+   background-size: cover;
+   margin-top: 30px;
+    
+}
+
+.burna{
+    width: 50%;
+    /* border: 2px solid blue; */
+}
+
+.image{
+
+    width: 100%;
+}
+
+.boy{
+    width: 50%;
+   
+    padding-left: 20px;
+    color: white;
+}
+
+.bett{
+    /* border: 2px solid yellow; */
+    margin-top: 30px;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)), url(images/disc.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    padding: 0px 0px 0px 20px;
+
+}
+
+.award{
+    width: 50%;
+    padding-right: 20px;
+    color: white;
+    font-size: 18px;
+}
+
+.bettt{
+    width: 50%;
+} 
+
+.bet{
+ 
+    width: 100%;  
+}
+
+.gram{
+  /* border: 2px solid yellow; */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 30px;
+  flex-direction: row-reverse;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)), url(images/erik.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+
+.grammy_comment{
+width: 50%;
+padding-left: 20px;
+color: white;
+
+}
+
+.grammy_image{
+width: 50%;
+
+}
+
+.grammy{
+    width: 100%;
+   
+}
+
+.lovebyyou{
+    /* border: 2px solid red; */
+    margin-top: 20px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)),  url(images/hanny.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+}
+
+.love_comment{
+color: white;
+/* border: 2px solid red; */
+   
+}
+
+
+.love_image{
+    width: 120%;
+
+}
+
+
+
+.jb{
+    width: 50%;
+    /* border: 2px solid blue; */
+    padding-bottom: 1px;
+    /* text-align: center; */
+  
+    
+   
+}
+.bj{
+    padding-bottom: 20px;
+    margin-bottom: 2px;
+    margin-top: 0px;
+    color: white;
+    
+    /* border: 2px solid grey; */
+    width: 60%;
+}
+
+.giant{
+    color: brown;
+    border: 1px solid white;
+    
+}
+
+.giant_pic{
+    width: 60%;
+    /* border: 2px solid red;
+    */
+}
+
+.giant_container{
+
+    width: 100%;
+    padding-bottom: 10px;
+    justify-content: center;
+    display: flex;
+
+}
+
+.list_comment{
+    font-size: 17px;
+  color: darkmagenta;
+}
